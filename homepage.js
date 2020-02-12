@@ -1,4 +1,3 @@
-CSS JSResult
 
 let points = [];
 var num = 20;
